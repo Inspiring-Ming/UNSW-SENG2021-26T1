@@ -19,13 +19,3 @@ A static website for UNSW SENG2021 (Software Engineering Workshop 2A) Term 1 202
 ## How It Works
 
 Each week page includes a discussion prompt and a Giscus comment section. Students can read the prompt and leave comments directly on the page using their GitHub account.
-
-## Run Locally
-
-No build step required. Serve the folder with any static server:
-
-```bash
-python3 -m http.server 8000
-```
-
-Then open [http://localhost:8000](http://localhost:8000).
